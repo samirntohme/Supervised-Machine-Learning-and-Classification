@@ -1,2 +1,2 @@
 # Supervised-Machine-Learning-and-Classification
-ML labs from Stanford’s University
+Stanford’s University ML specialization
