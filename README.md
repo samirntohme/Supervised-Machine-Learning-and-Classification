@@ -20,22 +20,28 @@ Gradient Descent <br>
 • Implement logistic regression for binary classification <br>
 • Address overfitting using regularization, to improve model performance <br>
 
-**Running the Jupyter Notebook Files**
-To run the .ipynb files in this repository, follow these steps:
+**Running the Jupyter Notebook Files** <br>
+To run the .ipynb files in this repository, follow these steps: <br>
 
-Prerequisites
-Make sure you have the following installed on your system:
-Python (>=3.7 recommended)
-Jupyter Notebook or Jupyter Lab
+Prerequisites <br>
+Make sure you have the following installed on your system: <br>
+Python (>=3.7 recommended) <br>
+Jupyter Notebook or Jupyter Lab <br>
 
-Installation
-1. Clone the repository (if not already done):
-git clone <repository_url>
-cd <repository_name>
+Installation <br>
+1. Clone the repository (if not already done): <br>
+git clone <repository_url> <br>
+cd <repository_name> <br>
 
-2. Create and activate a virtual environment (optional but recommended):
-python -m venv venv
-source venv/bin/activate  # On macOS/Linux
-venv\Scripts\activate  # On Windows
+2. Create and activate a virtual environment (optional but recommended): <br>
+python -m venv venv <br>
+source venv/bin/activate  # On macOS/Linux <br>
+venv\Scripts\activate  # On Windows <br>
 
-3. 
+3. Launch Jupyter Notebook: <br>
+jupyter notebook <br>
+
+This will open Jupyter in your default web browser. Navigate to the directory containing the .ipynb files and open the desired notebook. <br>
+
+Alternative: Run in Jupyter Lab (optional, if installed): <br>
+jupyter lab
