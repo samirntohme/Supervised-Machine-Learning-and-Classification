@@ -3,7 +3,7 @@ Stanford’s University ML specialization
 
 This repository contains the files from Stanford University's Supervised Machine Learning: Regression and Classification course, of the Machine Learning specialization
 
-**Topics covered:**
+**Topics covered:** <br>
 Supervised and Unsupervised Learning <br>
 Linear Regression <br>
 Logistic Regression <br>
