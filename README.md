@@ -21,14 +21,14 @@ Gradient Descent <br>
 • Address overfitting using regularization, to improve model performance <br>
 
 **Running the Jupyter Notebook Files** <br>
-To run the .ipynb files in this repository, follow these steps: <br>
+To run the .ipynb files make sure you have the prerequisites and then follow the installation steps. <br>
 
-Prerequisites <br>
+Prerequisites: <br>
 Make sure you have the following installed on your system: <br>
 Python (>=3.7 recommended) <br>
 Jupyter Notebook or Jupyter Lab <br>
 
-Installation <br>
+Installation: <br>
 1. Clone the repository (if not already done): <br>
 git clone <repository_url> <br>
 cd <repository_name> <br>
